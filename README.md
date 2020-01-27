@@ -1,2 +1,3 @@
-# PGT-landing-page
-Html / CSS / JS / Tailwind CSS Landing page
+# Landing Page
+
+Html / CSS / JS / Tailwind CSS
